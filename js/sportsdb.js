@@ -26,6 +26,7 @@ const displayPlayer = players =>{
          <h2 class="card-title text-danger">${players.strPlayer}</h2>
           <p class="card-text">${players.strDescriptionEN.slice(0,1200)}</p>
           <p class="card-text"><b>Country:</b> ${players.strNationality}</small></p>
+        
         </div>
   </div>
   </div>
